@@ -1,3 +1,5 @@
+import sys
+print(sys.executable)
 from tkinter import *
 from PIL import Image, ImageTk
 import tkinter
