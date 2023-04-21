@@ -1,8 +1,6 @@
-import sys
-print(sys.executable)
+import tkinter
 from tkinter import *
 from PIL import Image, ImageTk
-import tkinter
 
 # Create Object
 root = Tk()
